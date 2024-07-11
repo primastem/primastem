@@ -1,8 +1,8 @@
 # Nos contacts
 
-Mail - [**primastem@gmail.com**](mailto:primastem@gmail.com)
+Mail - [primastem@gmail.com](mailto:primastem@gmail.com)
 
-Messages - [**WhatsApp +33 6 2495 0936**](https://api.whatsapp.com/send?phone=33624950936) (Fr, En)
+Messages - [WhatsApp +33 6 2495 0936](https://api.whatsapp.com/send?phone=33624950936) (Fr, En)
 
 Web - [primastem.com](http://primastem.com)
 
