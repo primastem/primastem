@@ -2,5 +2,4 @@
 - [Mode d'emploi](modedemploi)
 - [Guide de l'enseignant 1](guidedelenseignant1)
 - [Сontacts](contacts)
----
-- [Mise à Jour du Firmware](https://primastem.github.io/update)
+* [Mise à Jour du Firmware](https://primastem.github.io/update)
