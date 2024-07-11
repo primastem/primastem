@@ -1,10 +1,8 @@
-# **PrimaSTEM**
-
 ![logo](images/icon.svg)
 
-> Инструмент для обучения детей 4+ программированию и математике без экрана.
+# **PrimaSTEM**
 
-Почта - [**primastem@gmail.com**](mailto:primastem@gmail.com) | Сообщение - [**WhatsApp**](https://api.whatsapp.com/send?phone=33624950936) (Fr, En)
+Инструмент преподавателя для обучения детей 4+ программированию и математике без экрана.
 
 [Français](/README)
 [English](/en/README)

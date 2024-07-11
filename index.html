@@ -8,7 +8,8 @@
 
   <!-- Replace with your own title and description. -->
   <title>PrimaSTEM</title>
-  <meta name="description" content="PrimaSTEM">
+  <link rel="icon" href="images/icon.svg" />
+  <meta name="description" content="PrimaSTEM - Outil pour enseigner aux enfants 4+ les bases de la programmation, de la logique et des mathématiques sans utiliser un appareil avec écran.">
 
   <!-- Default Theme (see https://docsify.js.org/#/themes)  -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
@@ -21,6 +22,26 @@
   type="text/css"
 />
 
+<style>
+  nav.app-nav li ul {
+    min-width: 100px;
+  }
+
+  #carbonads {
+    box-shadow: none !important;
+    width: auto !important;
+  }
+</style>
+<script>
+  (function () {
+    const lang = location.hash.match(/#\/(de-de|es|ru-ru|zh-cn)\//);
+
+    // Set html "lang" attribute based on URL
+    if (lang) {
+      document.documentElement.setAttribute('lang', lang[1]);
+    }
+  })();
+</script>
 
 </head>
 
