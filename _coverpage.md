@@ -1,4 +1,3 @@
-
 ![logo](images/icon.svg)
 
 # **PrimaSTEM**
