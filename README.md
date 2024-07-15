@@ -1,6 +1,6 @@
 # Intro
 
-PrimaSTEM - outil pour enseigner aux enfants 4+ les bases de la programmation, de la logique et des mathématiques sans utiliser un appareil avec écran.
+**PrimaSTEM** - outil pour enseigner aux enfants 4+ les bases de la programmation, de la logique et des mathématiques sans utiliser un appareil avec écran.
 
 ![https://img4.teletype.in/files/f9/b8/f9b84da3-b707-4bd5-b946-d2f03d82ed7d.jpeg](https://img4.teletype.in/files/f9/b8/f9b84da3-b707-4bd5-b946-d2f03d82ed7d.jpeg)
 
