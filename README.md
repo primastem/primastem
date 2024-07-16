@@ -2,7 +2,7 @@
 
 **PrimaSTEM** - outil pour enseigner aux enfants 4+ les bases de la programmation, de la logique et des mathématiques sans utiliser un appareil avec écran.
 
-![https://img4.teletype.in/files/f9/b8/f9b84da3-b707-4bd5-b946-d2f03d82ed7d.jpeg](https://img4.teletype.in/files/f9/b8/f9b84da3-b707-4bd5-b946-d2f03d82ed7d.jpeg)
+![PrimaSTEM](images/f9b84da3-b707-4bd5-b946-d2f03d82ed7d.jpeg)
 
 *Remote-desk pour l'installation du programme, blocs de programme, robot et résultat de l'exécution du code.*
 
@@ -55,13 +55,16 @@ En termes simples, il s'agit d'un outil pour enseigner aux enfants de manière l
 
 ## Comment ça fonctionne?
 
-**Ceci est une courte vidéo - une présentation de 6 minutes** *(Sous-titres en anglais et français disponibles)*, elles vont passer rapidement et de manière intéressante, nous allons toutes conduire, dessiner et montrer-dire sur la fonctionnalité, allumez le son. - [youtu.be/Ztq_I1WBiVo](https://youtu.be/Ztq_I1WBiVo) 
+**Ceci est une courte vidéo - une présentation de 6 minutes** *(Sous-titres en anglais et français disponibles)*, elles vont passer rapidement et de manière intéressante, nous allons toutes conduire, dessiner et montrer-dire sur la fonctionnalité, allumez le son. - [youtu.be/Ztq_I1WBiVo](https://youtu.be/Ztq_I1WBiVo)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ztq_I1WBiVo?si=ZNSLpsCC8WlPB671" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Dessin mathématique utilisant un changement de variable et des nombres négatifs. - [youtu.be/6Zoyku27mO8](https://youtu.be/6Zoyku27mO8) 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Zoyku27mO8?si=WYYMKyV7d768DI-D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Dessin mathématique du cœur. - [youtu.be/VgiWu200EGw](https://youtu.be/VgiWu200EGw) 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VgiWu200EGw?si=EiQKbP0egmZ2aXCa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > 📺  Voir plus de vidéos sur la chaîne **YouTube** ici -  [youtube.com/@primastem](https://www.youtube.com/@primastem)
@@ -72,7 +75,7 @@ Il est clair qu'il est destiné aux enfants. Ils l'utilisent pour jouer, mais il
 
 L'enfant acquiert une base mathématique et algorithmique, c'est une préparation à l'école et la première étape avant de maîtriser la programmation Scratch, Logo ou Minecraft sur l'ordinateur.
 
-![https://img1.teletype.in/files/46/fc/46fce7b5-9a28-4be3-9ecc-6f3926d8f395.jpeg](images/46fce7b5-9a28-4be3-9ecc-6f3926d8f395.jpeg)
+![Spirale](images/46fce7b5-9a28-4be3-9ecc-6f3926d8f395.jpeg)
 
 *Exemple de résultat de l'exécution d'un programme de dessin d'une spirale utilisant l'incrémentation dynamique de variables dans une boucle.*
 
