@@ -2,7 +2,7 @@
 
 **PrimaSTEM** - A tool to teach children 4+ the basics of programming, logic and math without the use of screen-based devices.
 
-![PrimaSTEM](images/f9b84da3-b707-4bd5-b946-d2f03d82ed7d.jpeg)
+![PrimaSTEM](images/main.jpeg)
 
 *Control panel for program creation, program blocks, robot and code execution results.*
 
@@ -12,7 +12,7 @@
 - 🐞 [Subscribe to our news about PrimaSTEM development and sales launch](https://forms.gle/vfJXhBomVXXAAp8C7)
 
 
-## What's going on? ## What's going on?
+## What's going on?
 
 ![kids](images/kids.png)
 
@@ -75,7 +75,7 @@ Of course it's clearly meant for kids, they use it to play, but it's actually a 
 
 The child acquires a mathematical and algorithmic base that is a preparation for school and the first step before mastering computer programming in Scratch, Logo or Minecraft.
 
-![Spirale](images/46fce7b5-9a28-4be3-9ecc-6f3926d8f395.jpeg)
+![Spirale](images/robot_spiral.jpeg)
 
 *Example of program execution result for drawing a spiral using dynamic increase of variables in a loop.*
 

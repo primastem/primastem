@@ -2,7 +2,7 @@
 
 **PrimaSTEM** - outil pour enseigner aux enfants 4+ les bases de la programmation, de la logique et des mathématiques sans utiliser un appareil avec écran.
 
-![PrimaSTEM](images/f9b84da3-b707-4bd5-b946-d2f03d82ed7d.jpeg)
+![PrimaSTEM](images/main.jpeg)
 
 *Remote-desk pour l'installation du programme, blocs de programme, robot et résultat de l'exécution du code.*
 
@@ -75,7 +75,7 @@ Il est clair qu'il est destiné aux enfants. Ils l'utilisent pour jouer, mais il
 
 L'enfant acquiert une base mathématique et algorithmique, c'est une préparation à l'école et la première étape avant de maîtriser la programmation Scratch, Logo ou Minecraft sur l'ordinateur.
 
-![Spirale](images/46fce7b5-9a28-4be3-9ecc-6f3926d8f395.jpeg)
+![Spirale](images/robot_spiral.jpeg)
 
 *Exemple de résultat de l'exécution d'un programme de dessin d'une spirale utilisant l'incrémentation dynamique de variables dans une boucle.*
 

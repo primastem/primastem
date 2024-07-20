@@ -1,6 +1,8 @@
-# Guide de l'enseignant 1
+# Guide de l'enseignant. Partie 1.
 
-> Niveau élémentaire
+?> Niveau élémentaire
+
+![Enter image alt description](images/VjT_Image_1.png)
 
 Nous, les créateurs de PrimaSTEM, vous présentons un kit éducatif en développement pour jouer à des jeux et enseigner la logique, la programmation et les mathématiques.
 
@@ -12,7 +14,9 @@ PrimaSTEM peut être utilisé dans diverses matières préscolaires et scolaires
 
 Jouer avec PrimaSTEM favorise le développement des enfants dans des domaines clés tels que la pensée logique, les algorithmes, la programmation, les mathématiques, la géométrie, ainsi que le développement créatif et socio-affectif.
 
-PrimaSTEM est la première étape préparatoire avant d'initier les enfants à la programmation informatique dans des langages blocs tels que Scratch ou LOGO.
+PrimaSTEM est la première étape préparatoire avant d'initier les enfants à la programmation informatique dans des langages blocs tels que [Scratch](https://en.wikipedia.org/wiki/Scratch_(programming_language))  ou [LOGO](https://en.wikipedia.org/wiki/Logo_(programming_language)).
+
+![Enter image alt description](images/2lh_Image_2.png)
 
 ## Familiarisation avec le kit de formation
 
@@ -36,6 +40,8 @@ Il s'agit de domaines et de programmes éducatifs dans lesquels PrimaSTEM peut �
 
 - Camps d'été éducatifs pour enfants
 
+![Enter image alt description](images/qcT_Image_4.jpeg)
+
 ### Que dois-je savoir pour commencer la formation ?
 
 Ce document contient des informations techniques de base sur le kit de formation pour l'utilisateur novice.
@@ -46,11 +52,11 @@ Les enseignants n'ont pas besoin d'une éducation spéciale ou de compétences p
 
 ## Recherche sur le sujet et la valeur du recrutement.
 
-PrimaSTEM s'inspire de LOGO, un langage de programmation pour débutants, et du système d'apprentissage Montessori. L'interface du jeu est spécialement conçue pour les enfants âgés de 4 à 10 ans. On y trouve donc de nombreuses images familières et le programme lui-même peut être touché, il est littéralement créé par les mains des enfants. La tranche d'âge des 5-6 ans est idéale pour commencer à apprendre la programmation, qui est construite ici, premièrement, sans appareils électroniques avec écrans, et deuxièmement, de telle manière qu'elle attire d'autres sujets de base de l'éducation préscolaire - compter, logique, rythmique, le monde qui nous entoure, l'éthique, le dessin.
+PrimaSTEM s'inspire de [LOGO](https://en.wikipedia.org/wiki/Logo_(programming_language)), un langage de programmation pour débutants, et du système d'apprentissage Montessori. L'interface du jeu est spécialement conçue pour les enfants âgés de 4 à 10 ans. On y trouve donc de nombreuses images familières et le programme lui-même peut être touché, il est littéralement créé par les mains des enfants. La tranche d'âge des 5-6 ans est idéale pour commencer à apprendre la programmation, qui est construite ici, premièrement, sans appareils électroniques avec écrans, et deuxièmement, de telle manière qu'elle attire d'autres sujets de base de l'éducation préscolaire - compter, logique, rythmique, le monde qui nous entoure, l'éthique, le dessin.
 
-Le langage LOGO (à ne pas confondre avec les jeux Lego) a été une étape importante dans l'éducation pour enseigner à ceux qui ne connaissaient pas la programmation. L'objectif de Seymour Papert, qui a créé LOGO au MIT dans les années 1960, n'était pas seulement d'enseigner la programmation, mais aussi d'aider les enfants à découvrir leur propre façon de résoudre les problèmes.
+Le langage LOGO (à ne pas confondre avec les jeux Lego) a été une étape importante dans l'éducation pour enseigner à ceux qui ne connaissaient pas la programmation. L'objectif de [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert), qui a créé LOGO au MIT dans les années 1960, n'était pas seulement d'enseigner la programmation, mais aussi d'aider les enfants à découvrir leur propre façon de résoudre les problèmes.
 
-Le langage LOGO fournit un exécuteur de commande spécial - une tortue-robot. Le robot est un objet de transition qui sert en quelque sorte de métaphore pour transformer l'expérience de la manipulation corporelle avec des puces de commande et une télécommande en généralisations et abstractions conceptuelles.
+Le langage LOGO fournit un exécuteur de commande spécial - une **tortue-robot**. Le robot est un objet de transition qui sert en quelque sorte de métaphore pour transformer l'expérience de la manipulation corporelle avec des puces de commande et une télécommande en généralisations et abstractions conceptuelles.
 
 En observant le comportement du robot, on peut facilement comprendre la signification de chaque commande et ainsi maîtriser non seulement les moyens du langage de programmation, mais aussi apprendre facilement les algorithmes.
 
@@ -66,13 +72,13 @@ Le choix du matériau n'est pas fortuit : la télécommande PrimaSTEM est en boi
 
 Les puces de commande physiques et tangibles de PrimaSTEM sont analogues à n'importe quel langage de programmation procédural réel et, en jouant, les enfants peuvent apprendre toute une série de concepts de programmation et de logique de base.
 
+![Enter image alt description](images/6li_Image_5.png)
+
 ### Algorithmes
 
 Les algorithmes sont des ensembles d'instructions précises qui forment un programme.
 
 Les puces de commande PrimaSTEM sont la représentation physique des instructions qui sont combinées pour créer un programme.
-
-sont combinées pour créer un programme.
 
 ### File d'attente
 
@@ -90,13 +96,11 @@ Une fonction (ou sous-programme) en programmation est un morceau de code qui peu
 
 La nature tactile et sociale de PrimaSTEM en fait un outil d'apprentissage polyvalent. PrimaSTEM contribue à l'apprentissage d'autres matières qui vont au-delà de la programmation.
 
-L'utilisation de PrimaSTEM en classe peut contribuer à développer les compétences suivantes chez les enfants :
+> L'utilisation de PrimaSTEM en classe peut contribuer à développer les compétences suivantes chez les enfants:
 
 ### Communication avec les pairs
 
-Le jeu apprend aux enfants à coopérer. L'interaction variée avec le PrimaSTEM
-
-au sein d'un groupe développe les capacités de communication des enfants. Les enfants s'entraident pour trouver une solution à un problème et guider le robot dans la bonne direction.
+Le jeu apprend aux enfants à coopérer. L'interaction variée avec le PrimaSTEM au sein d'un groupe développe les capacités de communication des enfants. Les enfants s'entraident pour trouver une solution à un problème et guider le robot dans la bonne direction.
 
 ### Coordination et motricité fine
 
@@ -104,15 +108,13 @@ Les enfants développent leur contrôle et leur coordination en se déplaçant a
 
 ### Développement socio-émotionnel
 
-Les enfants deviennent plus confiants lorsqu'ils essaient de nouvelles activités. Des erreurs peuvent se produire pendant le jeu, mais elles sont facilement éliminées par les enfants eux-mêmes ou avec l'aide du groupe et de l'enseignant. De cette manière, il n'y aura pas de résultats incorrects dans le jeu, car il encourage le travail de groupe et chaque enfant en fera partie, ainsi qu'une tâche accomplie avec succès. Les émotions positives de l'enfant sont favorisées par le résultat rapide et visible de ses efforts !
+Les enfants deviennent plus confiants lorsqu'ils essaient de nouvelles activités. Des erreurs peuvent se produire pendant le jeu, mais elles sont facilement éliminées par les enfants eux-mêmes ou avec l'aide du groupe et de l'enseignant. De cette manière, il n'y aura pas de résultats incorrects dans le jeu, car il encourage le travail de groupe et chaque enfant en fera partie, ainsi qu'une tâche accomplie avec succès. Les émotions positives de l'enfant sont favorisées par le résultat rapide et visible de ses efforts!
 
 ### Mathématiques
 
 Pour démarrer le robot, les enfants disposent les jetons des équipes en les comptant en fonction du nombre d'étapes du programme du robot. Le comptage simple est renforcé au cours du jeu. De même, pour que le robot atteigne le but fixé, les enfants apprennent à estimer la distance, à la mesurer par le nombre de pas et à imaginer en combien d'équipes le robot la parcourra.
 
-
-
-Les jetons de valeur permettent d'élargir le champ d'apprentissage.  La possibilité d'introduire le concept de nombres aléatoires permet même d'aborder la théorie des probabilités.
+Les jetons de valeur permettent d'élargir le champ d'apprentissage. La possibilité d'introduire le concept de nombres aléatoires permet même d'aborder la théorie des probabilités.
 
 ### Pensée logique
 
@@ -122,19 +124,23 @@ Les puces de commande permettent aux enfants de créer et de déboguer des progr
 
 En outre, en augmentant la complexité de la programmation, les enfants auront l'occasion de s'exprimer individuellement en créant leur propre solution au problème. De nombreuses tâches impliquent plusieurs solutions.
 
-Lorsqu'un enfant reçoit une tâche ou élabore son propre plan, il crée une chaîne séquentielle de puces de commande avec ses mains et les ressent tactilement. Après avoir appuyé sur le bouton "Exécuter", le robot se déplace et l'enfant voit les résultats de son code de programmation. Il en déduit s'il a dirigé le robot correctement, si le résultat coïncide avec sa pensée initiale. De cette manière, un processus engage la perception tactile, visuelle et mentale du jeu par l'enfant.
+!> Lorsqu'un enfant reçoit une tâche ou élabore son propre plan, il crée une chaîne séquentielle de puces de commande avec ses mains et les ressent tactilement. Après avoir appuyé sur le bouton "Exécuter", le robot se déplace et l'enfant voit les résultats de son code de programmation. Il en déduit s'il a dirigé le robot correctement, si le résultat coïncide avec sa pensée initiale. De cette manière, un processus engage la perception tactile, visuelle et mentale du jeu par l'enfant.
+
+![Enter image alt description](images/KNC_Image_6.png)
 
 ## Organisation du processus d'apprentissage par le jeu
 
 L'objectif est de permettre aux enfants de créer des programmes pour le robot en organisant des séquences d'instructions-commandes tout en résolvant des tâches ludiques déterminées.
 
-Plus les enfants passent de temps à résoudre des tâches de jeu avec le robot, plus ils développent leurs capacités de raisonnement informatique ; en les observant, on remarque que pour les tâches plus complexes, les enfants créent des séquences d'instructions plus longues ou divisent le programme en plusieurs parties logiques.
+Plus les enfants passent de temps à résoudre des tâches de jeu avec le robot, plus ils développent leurs capacités de raisonnement informatique; en les observant, on remarque que pour les tâches plus complexes, les enfants créent des séquences d'instructions plus longues ou divisent le programme en plusieurs parties logiques.
 
 La vitesse à laquelle un enfant peut progresser dans la "difficulté de la tâche" varie d'un enfant à l'autre, mais il est toujours important de ne pas sauter les étapes d'introduction et d'instruction, quelle que soit la vitesse à laquelle l'enfant les franchit.
 
 Le guide décrit ensuite les principales parties du processus d'apprentissage qui permettent de libérer tout le potentiel et toutes les possibilités de l'ensemble d'apprentissage.
 
 Sur cette base, il est possible de construire le processus d'apprentissage des cours de logique et de programmation pour différents groupes d'enfants, ainsi que pour d'autres sujets éducatifs.
+
+![Enter image alt description](images/APq_Image_7.png)
 
 ## Faire connaissance avec le robot
 
@@ -146,13 +152,13 @@ Il faut expliquer aux enfants que le robot ne peut pas penser par lui-même et q
 
 Si vous enseignez à un groupe, placez les enfants en cercle et permettez-leur de se passer le robot les uns aux autres, en lui disant bonjour ou en le faisant simplement passer de main en main pour le sentir au toucher. Cela crée une sorte de lien avec le robot, comme ils le feraient avec un jouet ordinaire, et la résolution de problèmes par le biais d'histoires deviendra plus importante et plus impliquée pour les enfants.
 
-Il faut expliquer aux enfants que le robot doit être manipulé avec précaution parce qu'il est fragile et qu'il contient des composants électroniques précis, et qu'il ne faut donc pas le jeter. Le robot est doté d'un bouton marche/arrêt situé en bas, montrez aux enfants comment mettre le robot en marche.
+Il faut expliquer aux enfants que le robot doit être manipulé avec précaution parce qu'il est fragile et qu'il contient des composants électroniques précis, et qu'il ne faut donc pas le jeter. Le robot est doté d'un bouton marche/arrêt, montrez aux enfants comment mettre le robot en marche.
 
 ## Présentation du panneau de commande
 
 Présentez aux enfants une télécommande qu'ils peuvent utiliser pour envoyer des instructions au robot. Sans cette télécommande, il n'est pas possible d'envoyer des commandes-instructions au robot.
 
-![Enter image alt description](images/juP_Image_9.jpeg)
+![Enter image alt description](images/MS3_Image_9.jpeg)
 
 Il est important que les enfants réalisent qu'un robot n'est capable de se déplacer que sur commande humaine. Il ne s'agit pas seulement du concept de capacités de contrôle, mais aussi de la clé pour comprendre l'informatique dans son ensemble.
 
@@ -162,15 +168,13 @@ Tous ces exemples, comme notre robot, sont des machines qui ont besoin d'une pro
 
 Il est nécessaire d'informer les enfants qu'il est interdit de s'asseoir sur la télécommande, de se tenir debout dessus, de la lancer ou de lui donner des coups de pied. La télécommande fonctionne avec le bouton marche/arrêt allumé, montrez aux enfants comment allumer la télécommande pour qu'elle fonctionne.
 
-Il convient de noter que seule la rangée supérieure de la télécommande (6 cellules pour les commandes et les cellules inférieures pour les valeurs) est utilisée pour créer la partie principale du programme du robot. Les cellules du bas du panneau de contrôle (5 cellules pour les commandes et les cellules en dessous pour les valeurs) sont destinées aux sous-programmes et sont activées à l'aide de la commande "Function".
+> Il convient de noter que seule la rangée supérieure de la télécommande (6 cellules pour les commandes et les cellules inférieures pour les valeurs) est utilisée pour créer la partie principale du programme du robot. Les cellules du bas du panneau de contrôle (5 cellules pour les commandes et les cellules en dessous pour les valeurs) sont destinées aux sous-programmes et sont activées à l'aide de la commande "Function".
 
 ## Familiarisation avec les puces - commandes de contrôle
 
 Présentez aux enfants les puces - les commandes comme les instructions pour déplacer le robot lorsqu'elles sont insérées dans les cellules du panneau de commande et que l'on appuie sur le bouton pour exécuter le programme.
 
-Des puces de commande différentes signifient des instructions différentes, et il est important que chaque puce soit comprise comme une instruction claire et sans ambiguïté.
-
-soit comprise comme une instruction claire et sans ambiguïté pour le robot.
+Des puces de commande différentes signifient des instructions différentes, et il est important que chaque puce soit comprise comme une instruction claire et sans ambiguïté pour le robot.
 
 Ces commandes de puce constituent le langage de programmation tactile et tangible du robot et sont essentielles à l'acquisition de compétences en matière de pensée computationnelle. Lorsqu'une puce est insérée dans la télécommande, l'enfant doit comprendre ce que le robot fera une fois la commande envoyée.
 
@@ -178,18 +182,13 @@ Il s'agit d'un élément clé pour comprendre des concepts tels que la conceptio
 
 Il est important d'informer les enfants que les puces ne doivent pas être jetées, portées à la bouche ou mouillées, car sans elles, le robot ne pourra pas recevoir les commandes correctes et se déplacer.
 
-
-## Gameplay - partie 1 (niveau d'entrée)
+## Gameplay - Partie 1 (niveau d'entrée)
 
 ### Cause et effet
 
-L'objectif de la première leçon est d'introduire le concept simple selon lequel l'envoi d'une commande au robot entraîne une action.
+L'objectif de la première leçon est d'introduire le concept simple selon lequel l'envoi d'une commande au robot entraîne une action. Prenez le jeton vert (vers l'avant) et demandez à l'enfant de la placer dans la première case en haut à gauche de la télécommande. Demandez ensuite à votre enfant d'appuyer sur le gros bouton de la télécommande (Exécuter) et observez le robot exécuter la commande. Veillez à ce que l'enfant associe clairement le type de puce à l'action exécutée.
 
-une commande au robot entraîne une action. Prenez le jeton vert (vers l'avant)
-
-et demandez à l'enfant de la placer dans la première case en haut à gauche de la télécommande. Demandez ensuite à votre enfant d'appuyer sur le gros bouton de la télécommande (Exécuter) et observez le robot exécuter la commande. Veillez à ce que l'enfant associe clairement le type de puce à l'action exécutée.
-
-![Enter image alt description](images/Em3_Image_10.jpeg)
+![Enter image alt description](images/ZGa_Image_10.jpeg)
 
 ### Des instructions sans ambiguïté
 
@@ -203,8 +202,7 @@ Demandez à votre enfant de créer un programme pour amener le robot jusqu'à un
 
 Si l'enfant choisit la mauvaise puce, remettez simplement le robot dans sa position initiale et demandez à l'enfant de raisonner sur son choix et d'essayer de nouvelles options.
 
-
-## Gameplay - partie 2 (niveau débutant)
+## Gameplay - Partie 2 (niveau débutant)
 
 ### File d'attente d'événements
 
@@ -212,7 +210,7 @@ Cette fois, placez le point d'arrivée deux cases avant le robot, puis demandez 
 
 Demandez à l'enfant d'insérer les puces dans les deux premières cases de la télécommande et d'appuyer sur le bouton d'action "Exécuter".  Ne vous inquiétez pas si la mauvaise puce a été sélectionnée. Remettez simplement le robot dans sa position initiale et demandez à votre enfant de réfléchir à ses choix et d'essayer de nouvelles options.
 
-![Enter image alt description](images/ycV_Image_11.jpeg)
+![Enter image alt description](images/nmm_Image_11.jpeg)
 
 ### Une séquence de trois puces - équipes
 
@@ -220,19 +218,19 @@ Cette fois, fixez le point d'arrivée à une case devant le robot et à une case
 
 Demandez à l'enfant d'insérer les puces dans les trois premiers emplacements de la télécommande et d'appuyer sur le bouton "Exécuter".  Ne vous inquiétez pas si la mauvaise puce a été sélectionnée. Remettez simplement le robot dans sa position initiale et demandez à votre enfant de réfléchir à ses choix et d'essayer de nouvelles options.
 
-![Enter image alt description](images/U6Z_Image_12.jpeg)
+![Enter image alt description](images/XZX_Image_12.jpeg)
 
 ### Débogage - recherche d'une erreur
 
 Fixer le point d'arrivée à une case devant le robot et à une case à gauche (ou à droite) du robot.
 
-Le point d'arrivée est situé à une case de celui-ci (ou à sa droite). Cette fois, créez un programme pour résoudre le problème en insérant délibérément un mauvais virage dans la séquence.
+Cette fois, créez un programme pour résoudre le problème en insérant délibérément un mauvais virage dans la séquence.
 
 Demandez à votre enfant de prédire la commande incorrecte dans le programme et de prédire lui-même le résultat incorrect, et laissez-le appuyer sur le bouton "Exécuter" pour confirmer sa supposition.
 
 Une fois que l'enfant est convaincu que la séquence présentée était incorrecte, soit par le raisonnement, soit par la vérification, permettez-lui de remplacer la commande incorrecte par la commande correcte, déboguant ainsi le programme.
 
-![Enter image alt description](images/yug_Image_13.jpeg)
+![Enter image alt description](images/rKa_Image_13.jpeg)
 
 ## Gameplay - Partie 3 (niveau intermédiaire)
 
@@ -244,21 +242,19 @@ Pour expliquer comment cela fonctionne, vous pouvez utiliser la métaphore de la
 
 Pour illustrer cela à l'aide d'un exemple, placez d'abord les deux jetons verts "Avancer" dans les cellules supérieures principales du panneau de commande et appuyez sur le bouton "Exécuter". Le robot avance alors de deux cases sur la carte.
 
-![Enter image alt description](images/nX4_Image_14.jpeg)
+![Enter image alt description](images/G69_Image_14.jpeg)
 
 Débarrassez maintenant les cellules du bureau et placez les deux jetons "En avant" dans la rangée de fonctions du bureau (cellules du bas du bureau) et le jeton "Fonction" dans la cellule principale, en haut. Faites remarquer aux enfants que le robot peut effectuer les mêmes actions dans deux séquences différentes.
 
-![Enter image alt description](images/kfv_Image_15.jpeg)
+![Enter image alt description](images/2BV_Image_15.jpeg)
 
-Ensuite, créez un programme pour le robot:
-
-Avant" - "Avant" - "Droite" - "Avant" - "Avant"
+Ensuite, créez un programme pour le robot: **"Avant" - "Avant" - "Droite" - "Avant" - "Avant"**.
 
 Montrez aux enfants ce que le robot va faire. Demandez aux enfants de trouver les mêmes parties du programme.
 
-Demandez s'il est possible de “cacher” ces pièces dans une “Fonction” qui ne ferait pas ces répétitions.
+Demandez s'il est possible de “cacher” ces pièces dans une “**Fonction**” qui ne ferait pas ces répétitions.
 
-Créez un programme avec vos enfants en utilisant les fonctions de la commande “Fonction”: dans la partie supérieure de la télécommande, définissez les commandes “Fonction”-”Droite”-”Fonction”, et dans la partie inférieure de la télécommande (dans la partie pour le sous-programme de la fonction), définissez les commandes “Avant” - ”Avant”.
+Créez un programme avec vos enfants en utilisant les fonctions de la commande “Fonction”: dans la partie supérieure de la télécommande, définissez les commandes **“Fonction”-”Droite”-”Fonction”**, et dans la partie inférieure de la télécommande (dans la partie pour le sous-programme de la fonction), définissez les commandes **“Avant” - ”Avant”**.
 
 Regardez le résultat avec les enfants, soulignez avec eux les parties répétées du programme et essayez de répéter avec eux les actions du robot en changeant le programme à l'aide de la commande "Fonction".
 
@@ -326,12 +322,13 @@ Organisez un petit jeu du type "A qui le robot ira le plus loin ?
 
 Attirez l'attention des enfants sur le fait que le robot se déplace d'un nombre aléatoire de cases : de 1 à 6.
 
-![Enter image alt description](images/YNt_Image_16.jpeg)
+![Enter image alt description](images/KK3_Image_16.jpeg)
 
 Insistez sur le fait qu'il s'agit d'un phénomène aléatoire et qu'il est impossible de connaître à l'avance la distance parcourue par le robot.
 
-## Soutien méthodologique et matériel d'étude supplémentaire
+## Fantasmez avec vos enfants!
 
-Vous êtes le seul à connaître vos élèves et à savoir comment travailler avec eux. Le développement et l'éducation des enfants ne dépendent que de vous. PrimaSTEM est un outil universel pour enseigner aux enfants non seulement la logique et la programmation, mais aussi d'autres sujets d'une manière ludique. Utilisez sa flexibilité et sa polyvalence pour créer un environnement ludique. Tout ne dépend que de votre imagination !
+Vous êtes le seul à connaître vos élèves et à savoir comment travailler avec eux. Le développement et l'éducation des enfants ne dépendent que de vous. PrimaSTEM est un outil universel pour enseigner aux enfants non seulement la logique et la programmation, mais aussi d'autres sujets d'une manière ludique. Utilisez sa flexibilité et sa polyvalence pour créer un environnement ludique. Tout ne dépend que de votre imagination!
 
-Pour l'instant, nous créons des programmes principalement pour les centres d'éducation préscolaire accueillant des enfants de 4-5 et 6-7 ans, mais cela ne signifie pas que le kit PrimaSTEM ne peut pas être utilisé pour d'autres groupes d'âge.
+> Merci d'utiliser PrimaSTEM dans votre démarche pédagogique ou de manifester votre intérêt pour le complexe !
+Nous espérons vraiment avoir des commentaires et des commentaires, veuillez nous écrire au sujet de votre expérience.
