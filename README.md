@@ -6,11 +6,7 @@
 
 *Remote-desk pour l'installation du programme, blocs de programme, robot et résultat de l'exécution du code.*
 
-
 - 📊 [Présentation pour B2B](https://pitch.com/v/primastem_b2b_fr-w5yrm2)
-
-- 🐞 [Inscrivez-vous pour recevoir des informations sur la sortie de PrimaSTEM au détail](https://forms.gle/vfJXhBomVXXAAp8C7)
-
 
 ## Qu'est-ce qui se passe?
 
@@ -84,4 +80,4 @@ L'enfant acquiert une base mathématique et algorithmique, c'est une préparatio
 PrimaSTEM est notre tentative de créer quelque chose dont les gens ont besoin, qui soit tangible et beau.
 Nous recherchons actuellement des partenaires pour lancer le projet en France et nous nous efforçons d'attirer des investissements, d'ouvrir un bureau et de produire dans l'UE. Nous sommes prêts pour la coopération et le partenariat.
 
-?> Je répondrai tout de suite à la question **"Combien coûte-t-il, où puis-je l'acheter”?** Nous ne vendons pas pour l'instant, **nous nous contentons de montrer** Vous pouvez vous **inscrire à la lettre d'information** sur la sortie PrimaSTEM - [https://forms.gle/vfJXhBomVXXAAp8C7](https://forms.gle/vfJXhBomVXXAAp8C7)
+?> 🐞 Nous ne vendons pas actuellement, nous montrons seulement. Vous pouvez [vous abonner à la lettre d'information de PrimaSTEM](https://forms.gle/vfJXhBomVXXAAp8C7).

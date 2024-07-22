@@ -6,11 +6,7 @@
 
 *Control panel for program creation, program blocks, robot and code execution results.*
 
-
 - 📊 [Presentation for B2B, French language](https://pitch.com/v/primastem_b2b_fr-w5yrm2)
-
-- 🐞 [Subscribe to our news about PrimaSTEM development and sales launch](https://forms.gle/vfJXhBomVXXAAp8C7)
-
 
 ## What's going on?
 
@@ -49,9 +45,7 @@ Simply put, it is a tool to teach children the concepts of numbers, angles, algo
 - natural materials for the casing
 - innovative technical solution based on NFC technology
 
-
 > 🎯 **The primary learning objective** is to develop cognitive skills by materializing and visualizing programming processes and understanding the meaning of their outcomes.
-
 
 ## How does it work?
 
@@ -84,4 +78,4 @@ The child acquires a mathematical and algorithmic base that is a preparation for
 PrimaSTEM is our attempt to create something people need, tangible and beautiful.
 Now we are looking for partners to launch the project in France and are working on attracting investment, opening an office and production in the EU. We are ready for cooperation and partnership.
 
-?> We are not currently selling, **we are only showing**. You can **subscribe to the PrimaSTEM newsletter**- [https://forms.gle/vfJXhBomVXXAAp8C7](https://forms.gle/vfJXhBomVXXAAp8C7)
+?> 🐞 We are not currently selling, we are only showing. You can [subscribe to the PrimaSTEM newsletter](https://forms.gle/vfJXhBomVXXAAp8C7).
