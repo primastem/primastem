@@ -13,14 +13,12 @@
 
   <!-- Default Theme (see https://docsify.js.org/#/themes)  
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"> -->
-  
 
  <!-- Theme: Simple 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"> -->
 
 <!-- Theme: Simple Dark
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"> -->
-
 
 <!-- Theme: Simple (light + dark) -->
 <link rel="stylesheet" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
@@ -69,13 +67,6 @@
 
       nativeEmoji: true,
 
-      // timeUpdater
-    timeUpdater: {
-    text: "*update: {docsify-updated}*",
-    formatUpdated: "{YYYY}/{MM}/{DD}",
-    whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
-                   },
-
       // Search Plugin Configuration
       search: {
         placeholder: {
@@ -96,7 +87,11 @@
       themeable: {
           readyTransition : true, // default
           responsiveTables: true  // default
-      }
+      },
+      
+      plugins: [
+      EditOnGithubPlugin.create(docBase, docEditBase, title)
+    ]
 
     };
   </script>
@@ -115,9 +110,7 @@
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
-
-  <!-- timeUpdater --> 
-  <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
 
 </body>
 </html>
