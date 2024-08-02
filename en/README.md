@@ -51,15 +51,15 @@ Simply put, it is a tool to teach children the concepts of numbers, angles, algo
 
 **This short video is a 6 minute presentation** *(there are Russian subtitles)*, it will go fast and interesting, everything will move, draw and talk about functionality - [youtu.be/Ztq_I1WBiVo](https://youtu.be/Ztq_I1WBiVo)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ztq_I1WBiVo?si=ZNSLpsCC8WlPB671" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width=100% src="https://www.youtube.com/embed/Ztq_I1WBiVo?si=ZNSLpsCC8WlPB671" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Math drawing using variable and negative numbers. - [youtu.be/6Zoyku27mO8](https://youtu.be/6Zoyku27mO8) 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6Zoyku27mO8?si=WYYMKyV7d768DI-D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width=100% src="https://www.youtube.com/embed/6Zoyku27mO8?si=WYYMKyV7d768DI-D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 A mathematical drawing of the heart. - [youtu.be/VgiWu200EGw](https://youtu.be/VgiWu200EGw) 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VgiWu200EGw?si=EiQKbP0egmZ2aXCa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width=100% src="https://www.youtube.com/embed/VgiWu200EGw?si=EiQKbP0egmZ2aXCa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > 📺  More videos on the channel **YouTube** -  [youtube.com/@primastem](https://www.youtube.com/@primastem)
 
