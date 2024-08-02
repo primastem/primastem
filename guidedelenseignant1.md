@@ -146,7 +146,7 @@ Sur cette base, il est possible de construire le processus d'apprentissage des c
 
 Présentez à vos élèves le robot comme un petit ami, par exemple appelé "Julie", que les enfants peuvent programmer.
 
-![Enter image alt description](images/cAr_Image_8.jpeg)
+![Enter image alt description](images/SJN_Image_8.jpeg)
 
 Il faut expliquer aux enfants que le robot ne peut pas penser par lui-même et qu'il ne peut se déplacer que selon la programmation de l'enfant, comme n'importe quelle autre machine.
 
