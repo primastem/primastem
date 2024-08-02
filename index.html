@@ -69,11 +69,12 @@
 
       nativeEmoji: true,
 
-   // timeUpdater: {
-   // text: "*update: {docsify-updated}*",
-   // formatUpdated: "{YYYY}/{MM}/{DD}",
-   // whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
-   //                },
+      // timeUpdater
+    timeUpdater: {
+    text: "*update: {docsify-updated}*",
+    formatUpdated: "{YYYY}/{MM}/{DD}",
+    whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
+                   },
 
       // Search Plugin Configuration
       search: {
@@ -87,9 +88,15 @@
           '/en/': 'No results',
           '/': 'Pas de résultats'
         },
+
         // Headline depth, 1 - 6
         depth: 3,
-               }
+               },
+
+      themeable: {
+          readyTransition : true, // default
+          responsiveTables: true  // default
+      }
 
     };
   </script>
@@ -98,7 +105,7 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
 
   <!-- docsify-themeable -->
-<script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
 
   <!-- Recommended -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
@@ -107,9 +114,10 @@
   <!-- Other -->
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
 
-<!-- <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script> -->
+  <!-- timeUpdater --> 
+  <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
 
 </body>
 </html>
