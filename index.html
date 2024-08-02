@@ -87,8 +87,12 @@
       themeable: {
           readyTransition : true, // default
           responsiveTables: true  // default
-      }
-
+      },
+      plugins: [
+        DemoBoxVue.create(jsResources, cssResources, bootCode),
+        EditOnGithubPlugin.create(
+          'https://github.com/primastem/primastem/'
+        )]
     };
   </script>
 
@@ -106,8 +110,7 @@
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
-  
-  <!-- <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script> -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
 
 </body>
 </html>
