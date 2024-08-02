@@ -80,4 +80,4 @@ L'enfant acquiert une base mathématique et algorithmique, c'est une préparatio
 PrimaSTEM est notre tentative de créer quelque chose dont les gens ont besoin, qui soit tangible et beau.
 Nous recherchons actuellement des partenaires pour lancer le projet en France et nous nous efforçons d'attirer des investissements, d'ouvrir un bureau et de produire dans l'UE. Nous sommes prêts pour la coopération et le partenariat.
 
-?> 🐞 Nous ne vendons pas actuellement, nous montrons seulement. Vous pouvez [vous abonner à la lettre d'information de PrimaSTEM](https://forms.gle/vfJXhBomVXXAAp8C7).
+?> Nous ne vendons pas actuellement, nous montrons seulement. Vous pouvez [vous abonner à la lettre d'information de PrimaSTEM](https://forms.gle/vfJXhBomVXXAAp8C7).
