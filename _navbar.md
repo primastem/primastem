@@ -1,5 +1,5 @@
 <!-- _navbar.md -->
-- Fr | En | Ру
+- Fr - En - Ру
   - [Français](/)
   - [English](/en/)
   - [Русский](/ru/)
