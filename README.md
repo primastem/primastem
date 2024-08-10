@@ -53,15 +53,15 @@ En termes simples, il s'agit d'un outil pour enseigner aux enfants de manière l
 
 **Ceci est une courte vidéo - une présentation de 6 minutes** *(Sous-titres en anglais et français disponibles)*, elles vont passer rapidement et de manière intéressante, nous allons toutes conduire, dessiner et montrer-dire sur la fonctionnalité, allumez le son. - [youtu.be/Ztq_I1WBiVo](https://youtu.be/Ztq_I1WBiVo)
 
-<iframe width=100% src="https://www.youtube.com/embed/Ztq_I1WBiVo?si=ZNSLpsCC8WlPB671" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Ztq_I1WBiVo?si=ZNSLpsCC8WlPB671" width=100% height="315" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Dessin mathématique utilisant un changement de variable et des nombres négatifs. - [youtu.be/6Zoyku27mO8](https://youtu.be/6Zoyku27mO8) 
 
-<iframe width=100% src="https://www.youtube.com/embed/6Zoyku27mO8?si=WYYMKyV7d768DI-D" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/6Zoyku27mO8?si=WYYMKyV7d768DI-D" width=100% height="315" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Dessin mathématique du cœur. - [youtu.be/VgiWu200EGw](https://youtu.be/VgiWu200EGw) 
 
-<iframe width=100% src="https://www.youtube.com/embed/VgiWu200EGw?si=EiQKbP0egmZ2aXCa" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/VgiWu200EGw?si=EiQKbP0egmZ2aXCa" width=100% height="315" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > 📺  Voir plus de vidéos sur la chaîne **YouTube** ici -  [youtube.com/@primastem](https://www.youtube.com/@primastem)
 
