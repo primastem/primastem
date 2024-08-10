@@ -53,15 +53,15 @@
 
 **Это короткое видео - 6-минутная презентация** *(есть русские субтитры)*, она пройдёт быстро и интересно, всё будет двигаться, рисовать и рассказывать о функционале - [youtu.be/Ztq_I1WBiVo](https://youtu.be/Ztq_I1WBiVo)
 
-<iframe src="https://www.youtube.com/embed/Ztq_I1WBiVo?si=ZNSLpsCC8WlPB671" width=100% height="450" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Ztq_I1WBiVo?si=ZNSLpsCC8WlPB671" width=100% height="225" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Математический рисунок с использованием переменной и отрицательных чисел. - [youtu.be/6Zoyku27mO8](https://youtu.be/6Zoyku27mO8) 
 
-<iframe width=100% src="https://www.youtube.com/embed/6Zoyku27mO8?si=WYYMKyV7d768DI-D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/6Zoyku27mO8?si=WYYMKyV7d768DI-D" width=100% height="225" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Математический рисунок сердца. - [youtu.be/VgiWu200EGw](https://youtu.be/VgiWu200EGw) 
 
-<iframe width=100% src="https://www.youtube.com/embed/VgiWu200EGw?si=EiQKbP0egmZ2aXCa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/VgiWu200EGw?si=EiQKbP0egmZ2aXCa" width=100% height="225" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > 📺  Больше видео на канале **YouTube** -  [youtube.com/@primastem](https://www.youtube.com/@primastem)
 
