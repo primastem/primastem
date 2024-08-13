@@ -32,7 +32,7 @@ The use of **screen devices** for play and learning for young children **causes*
 
 ## What's it for?
 
-This is a playful teacher's tool for teaching children** ages 4 and up the basics of programming, logic and math **without the use of electronic devices with screens**.
+This is a playful teacher's **tool for teaching children** ages 4 and up the basics of programming, logic and math **without the use of electronic devices with screens**.
 
 Simply put, it is a tool to teach children the concepts of numbers, angles, algorithms, logic, basic programming, arithmetic operations, negative and random numbers, progressions, and geometry in a fun and visual way.
 
