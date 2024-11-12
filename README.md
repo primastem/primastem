@@ -56,7 +56,7 @@ En d'autres termes, il s'agit d'un outil destiné à l'enseignement de concepts 
 
 ## Comment ça fonctionne?
 
-?> Vous devez allumer et tout fonctionne déjà! Bouton gauche-activer, droit d'exécuter le programme par le robot. Pas de connexions et de paramètres!
+?> Vous devez allumer et tout fonctionne déjà! Pas de connexions et de paramètres!
 
 **Avec cette présentation de 6 minutes, vous pouvez découvrir les fonctionnalités de PrimaSTEM** *(Sous-titres en anglais et français disponibles)* - [youtu.be/Ztq_I1WBiVo](https://youtu.be/Ztq_I1WBiVo)
 
