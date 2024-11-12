@@ -56,6 +56,12 @@ En d'autres termes, il s'agit d'un outil destiné à l'enseignement de concepts 
 
 ## Comment ça fonctionne?
 
+>! Vous devez allumer et tout fonctionne déjà! 
+
+Bouton gauche-activer, droit d'exécuter le programme par le robot.
+
+Pas de connexions et de paramètres!
+
 **Avec cette présentation de 6 minutes, vous pouvez découvrir les fonctionnalités de PrimaSTEM** *(Sous-titres en anglais et français disponibles)* - [youtu.be/Ztq_I1WBiVo](https://youtu.be/Ztq_I1WBiVo)
 
 <iframe src="https://www.youtube.com/embed/Ztq_I1WBiVo?si=ZNSLpsCC8WlPB671" width=100% height="315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -76,7 +82,7 @@ Il est clair qu'il est destiné aux enfants. Ils l'utilisent pour jouer, mais il
 
 L'enfant acquiert une base mathématique et algorithmique, c'est une préparation à l'école et la première étape avant de maîtriser la programmation Scratch, Logo ou Minecraft sur l'ordinateur.
 
-## L'avis de nos Partenaires
+## L'avis de nos Partenaires.
 
 | **Violaine Locus** *(Professeur des écoles)* | **Ludovic Augustin** *(Professeur de Technologie)* | **Béatrice Saslawsky** *(Professeur des écoles)* | **Delphine Vandeweghe** *(Professeur en ecole spécialisé)* |
 |:-:|:-:|:---:|:-------:|
