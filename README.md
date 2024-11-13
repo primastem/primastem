@@ -80,8 +80,9 @@ L'enfant acquiert une base mathématique et algorithmique, c'est une préparatio
 
 ## L'avis de nos Partenaires.
 
-| **Violaine Locus** *(Professeur des écoles)* | **Ludovic Augustin** *(Professeur de Technologie)* | **Béatrice Saslawsky** *(Professeur des écoles)* | **Delphine Vandeweghe** *(Professeur en ecole spécialisé)* |
+|**Violaine Locus**|**Ludovic Augustin**|**Béatrice Saslawsky**|**Delphine Vandeweghe**|
 |:-:|:-:|:---:|:-------:|
+|*(Professeur des écoles)*|*(Professeur de Technologie)*|*(Professeur des écoles)*|*(Professeur en ecole spécialisé)*|
 | "PrimaSTEM peut nous aider à éveiller les enfants aux mathématiques tout en s'amusant." | "Super ludique pour l'apprentissage sans écran, un vrai plus pédagogique." | "Je suis convaincu que nous pouvons aller plus loin dans l'enseignement grace à cet outil." | "PrimaSTEM peut aider les enfants des écoles spécialisées en occupant leur esprit différemment. La visualisation, l'interprétation et le côté ludique sont un vrai atout pour ces enfants." |
 
 ![Spirale](images/robot_spiral.jpeg)
