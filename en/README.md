@@ -1,5 +1,3 @@
-> Unfortunately, there is no full English translation right now, it is planned soon. The site is now available in full in French.
-
 # Introduction
 
 **PrimaSTEM** - A tool to teach children 4+ the basics of programming, logic and math without the use of screen-based devices.
