@@ -82,6 +82,7 @@ L'enfant acquiert une base mathématique et algorithmique, c'est une préparatio
 
 |Violaine Locus|Ludovic Augustin|Béatrice Saslawsky|Delphine Vandeweghe|
 |:-:|:-:|:-:|:----------:|
+|[Ecole élémentaire Bocca Muriers](https://www.education.gouv.fr/annuaire/06150/cannes/ecole/0060769d/ecole-elementaire-bocca-muriers.html)| |[Ecole élémentaire Bocca Muriers](https://www.education.gouv.fr/annuaire/06150/cannes/ecole/0060769d/ecole-elementaire-bocca-muriers.html)| |
 |Professeur des écoles|Professeur de Technologie|Professeur des écoles|Professeur en ecole spécialisé|
 | "PrimaSTEM peut nous aider à éveiller les enfants aux mathématiques tout en s'amusant." | "Super ludique pour l'apprentissage sans écran, un vrai plus pédagogique." | "Je suis convaincu que nous pouvons aller plus loin dans l'enseignement grace à cet outil." | "PrimaSTEM peut aider les enfants des écoles spécialisées en occupant leur esprit différemment. La visualisation, l'interprétation et le côté ludique sont un vrai atout pour ces enfants." |
 
