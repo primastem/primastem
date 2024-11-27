@@ -1,7 +1,7 @@
 - [**Introduction**](/en/README)
 - [**User manual**](/en/user_manual)
 - [**Teacher's Guide**](/en/teachers_guide)
-- [**Chips NFC**](/en/nfc_en)
+- [**Chips - commands**](/en/nfc_en)
 - [**Examples of mathematical drawings**](/en/drawings)
 - [ **Contacts** ](/en/contacts) 
 
