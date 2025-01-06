@@ -114,9 +114,9 @@ Expliquez que la télécommande sert à envoyer des commandes au robot. Sans ell
 
 > Pour créer la partie principale du programme du robot, seule la ligne supérieure du panneau de commande est utilisée (6 cellules pour les commandes et les cellules inférieures pour les valeurs). Les cellules du bas de la télécommande (5 cellules pour les commandes et les cellules en dessous pour les valeurs) sont destinées à un sous-programme et sont activées lors de l'utilisation de la commande "**Fonction**".
 
-### Familiarity with the chips - control commands
+### Familiarité avec les puces -commandes de contrôle
 
-Chips are instructions for the robot that are inserted into the remote control. When the button is pressed, the robot executes the program. Each chip is an unambiguous and clear command that helps children develop computational thinking skills. It is important that children understand what the robot does when each command is activated. This teaches them how to design programs and predict the robot's actions. Also explain to children that the chips should not be lost, damaged or wet, as without them the robot will not be able to execute the commands correctly.
+Les puces sont des instructions pour le robot qui sont insérées dans la télécommande. Lorsque le bouton est enfoncé, le robot exécute le programme. Chaque puce est une commande claire et sans ambiguïté qui aide les enfants à développer leurs capacités de réflexion informatique. Il est important que les enfants comprennent ce que fait le robot lorsque chaque commande est activée. Cela leur apprend à concevoir des programmes et à prédire les actions du robot. Expliquez également aux enfants que les puces ne doivent pas être perdues, endommagées ou mouillées, car sans elles, le robot ne pourra pas exécuter correctement les commandes.
 
 ## Gameplay - Partie 1 (niveau d'entrée)
 
