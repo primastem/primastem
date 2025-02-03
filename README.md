@@ -98,4 +98,3 @@ Nous recherchons actuellement des partenaires pour lancer le projet en France et
 
 ?> Nous ne vendons pas actuellement, nous montrons seulement. Vous pouvez [vous abonner à la lettre d'information](https://forms.gle/vfJXhBomVXXAAp8C7) de PrimaSTEM.
 
-<div class="ml-embedded" data-form="jdJlRe"></div>
