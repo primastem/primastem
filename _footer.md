@@ -1,3 +1,1 @@
- [primastem@gmail.com](mailto:primastem@gmail.com) 🐞 WhatsApp [+33 6 2495 0936](https://api.whatsapp.com/send?phone=33624950936) (fr, en) 🐞 primastem.com
----
-<div class="ml-embedded" data-form="jdJlRe"></div>
+ [primastem@gmail.com](mailto:primastem@gmail.com) 🐞 primastem.com 🐞 WhatsApp [+33 6 2495 0936](https://api.whatsapp.com/send?phone=33624950936) (fr, en)
