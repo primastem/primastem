@@ -78,5 +78,3 @@ The child acquires a mathematical and algorithmic base that is a preparation for
 **PrimaSTEM is our attempt to create something people need, tangible and beautiful.**
 
 Now we are looking for partners to launch the project in France and are working on attracting investment, opening an office and production in the EU. We are ready for cooperation and partnership.
-
-?> We are not currently selling, we are only showing. You can [subscribe to the PrimaSTEM newsletter](https://forms.gle/vfJXhBomVXXAAp8C7).
